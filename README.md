@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front-end developer with skills in HTML, CSS, JavaScript, React, Vite, Next JS, Tailwind CSS, and Shadcn UI<br>I've also made a website for Fashion Gate BD as a freelancer.
+I'm a front-end developer with skills in HTML, CSS, JavaScript, React, Vite, Next JS, Tailwind CSS, and Shadcn UI<br>I've also made a website for Fashion Gate BD as a freelancer. Working on an app called MirrorMe, targeting to bring generations together towards fitness. 
 
 
 ## 🌐 Socials:
