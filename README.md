@@ -1,86 +1,44 @@
 # 💫 About Me:
 
-<br>
-
 # Yo, I’m Faiyaz! 😎
-
-<br><br>
 
 I’m a beginner programmer with big dreams and a serious love for coding.
 
-<br>
-
 Currently diving deep into web development using React, Next.js, and TailwindCSS, while sharpening my skills in Python and JavaScript.
-
-<br><br>
 
 ## My Coding Journey 🚀
 
-<br><br>
-
 - **Web Dev:** I’ve built several small projects and websites using React and Next.js. I’m learning how to make user-friendly, responsive designs with TailwindCSS and classic HTML/CSS.
-
-<br>
 
 - **Programming Fundamentals:** Gaining solid grounding in JavaScript and Python. Still working on mastering complex logic and algorithms step-by-step.
 
-<br>
-
 - **Learning Mindset:** I’m far from a guru, but I’m all about consistency and growth. Every bug I fix and every new concept I learn brings me closer to becoming a confident developer.
-
-<br><br>
 
 ## What I’m Passionate About 🎯
 
-<br><br>
-
 - Building **cool, real-world websites** that solve problems or just look fire 🔥
-
-<br>
 
 - Eventually diving into **game development** and **artificial intelligence** — it’s a big goal but I’m on that grind
 
-<br>
-
 - Leveling up my coding skills to write **clean, efficient, and complex code**
-
-<br>
 
 - Turning my programming passion into a career that can help me earn and grow financially 💸
 
-<br><br>
-
 ## Outside the Code 🌟
-
-<br><br>
 
 When I’m not buried in code, you’ll find me:
 
-<br><br>
-
 - Folding paper with **origami** 🦋
-
-<br>
 
 - Grinding calisthenics to stay strong and focused 💪
 
-<br><br>
-
 ---
-
-<br><br>
 
 **I’m just getting started, but I’m here to learn, build, and never stop improving.**
 
-<br>
-
 If you wanna connect, collab, or just say hey, hit me up!
 
-<br><br>
-
 ---
-
-<br><br>
 
 *Let’s build the future — one line of code at a time.* 🚀
 
