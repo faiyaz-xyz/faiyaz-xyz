@@ -1,49 +1,17 @@
-# 💫 About Me:
+# Hey there, I'm Faiyaz! 👋
 
-# Yo, I’m Faiyaz! 😎
-
-I’m a beginner programmer with big dreams and a serious love for coding.
-
-Currently diving deep into web development using React, Next.js, and TailwindCSS, while sharpening my skills in Python and JavaScript.
-
-## My Coding Journey 🚀
-
-- **Web Dev:** I’ve built several small projects and websites using React and Next.js. I’m learning how to make user-friendly, responsive designs with TailwindCSS and classic HTML/CSS.
-
-- **Programming Fundamentals:** Gaining solid grounding in JavaScript and Python. Still working on mastering complex logic and algorithms step-by-step.
-
-- **Learning Mindset:** I’m far from a guru, but I’m all about consistency and growth. Every bug I fix and every new concept I learn brings me closer to becoming a confident developer.
-
-## What I’m Passionate About 🎯
-
-- Building **cool, real-world websites** that solve problems or just look fire 🔥
-
-- Eventually diving into **game development** and **artificial intelligence** — it’s a big goal but I’m on that grind
-
-- Leveling up my coding skills to write **clean, efficient, and complex code**
-
-- Turning my programming passion into a career that can help me earn and grow financially 💸
-
-## Outside the Code 🌟
-
-When I’m not buried in code, you’ll find me:
-
-- Folding paper with **origami** 🦋
-
-- Grinding calisthenics to stay strong and focused 💪
+I'm a Grade 10 dev-in-the-making 💻 | Passionate about **Game, Web & App Dev**, Full-Stack stuff, and creating cool projects.  
 
 ---
 
-**I’m just getting started, but I’m here to learn, build, and never stop improving.**
-
-If you wanna connect, collab, or just say hey, hit me up!
+### 🚀 About Me
+- 🌱 Learning AI, Web, App & Game Dev  
+- 💡 Currently building **projects in Next.js, Three.js, Firebase**  
+- 🎨 Into origami & creative coding stuff  
+- 🏋️‍♂️ Calisthenics & fitness obsessed  
+- 📚 O Levels prep + coding + glow-up grind  
 
 ---
-
-*Let’s build the future — one line of code at a time.* 🚀
-
-<br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fefenokid) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/originaltahiat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@faiyazxyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/faiyazxyz) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@faiyazxyz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiyaz0967@gmail.com) 
