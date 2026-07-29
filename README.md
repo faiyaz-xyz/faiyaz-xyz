@@ -39,4 +39,4 @@ I'm an AS Level student from Bangladesh interested in software engineering, AI, 
 ## Find Me
 
 * GitHub: https://github.com/faiyaz-xyz
-* LeetCode: (https://leetcode.com/u/faiyaz-xyz/)
+* LeetCode: https://leetcode.com/u/faiyaz-xyz/
